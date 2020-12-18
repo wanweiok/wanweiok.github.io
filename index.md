@@ -14,5 +14,6 @@ My to do list 2020.12
 5. 高山 Mountain
 6. 徒手攀岩 Free Solo
 - [ ] Build own integration system
+- [ ] [The Missing Semester of Your CS Education](https://missing-semester-cn.github.io/2020/)
 
 Markdown 语法： http://itmyhome.com/markdown/index.html
